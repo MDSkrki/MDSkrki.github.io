@@ -3,3 +3,8 @@
 * {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 }
+
+.main-contact {
+    display: flex;
+    flex-direction: column;
+}
