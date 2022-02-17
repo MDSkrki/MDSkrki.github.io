@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Mihai Daniel Somkereki
 
 Este repositorio sirve para presentar mi CV a modo de página web personal.
 ## Stack tecnológico
