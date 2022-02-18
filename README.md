@@ -19,9 +19,9 @@ This repository will serve as a Portfolio.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a>
     <a href="https://git-scm.com/" target="_blank">
-        <img src="img/git-alt-brands.svg" alt="Git logo" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" width="40" height="40"/>
     </a>
-    ![Git Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+    [Git Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
 </p>
 
 ## Pending tasks 📋
