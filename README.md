@@ -13,7 +13,7 @@ This repository will serve as a Portfolio.
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-        <img src="img/html5-brands.svg" alt="html5" width="40" height="40"/> 
+        <img src="img/html5-brands.svg" alt="html5" width="40" height="40" style="background: #E54B20; color: white"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
         <img src="img/css3-brands.svg" alt="css3" width="40" height="40"/> 
