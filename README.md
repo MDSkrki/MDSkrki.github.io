@@ -1,4 +1,4 @@
-# Mihai Daniel Somkereki
+# Mihai Daniel Somkereki's Portfolio
 
 This repository will serve as a Portfolio.
 
