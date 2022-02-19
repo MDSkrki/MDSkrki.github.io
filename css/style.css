@@ -18,13 +18,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px;
-  font-size: 30px;
+  padding: 10px;
+  font-size: 35px;
   height: 50px;
   width: 50px;
   text-align: center;
   text-decoration: none;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 .fa:hover {
@@ -42,16 +42,13 @@
 }
 
 .fa-instagram {
-  background: radial-gradient(
-    circle at 30% 107%,
-    #fdf497 0%,
-    #fdf497 5%,
-    #fd5949 45%,
-    #d6249f 60%,
-    #285aeb 90%
-  );
-  -webkit-background-clip: text;
-  /* Also define standard property for compatibility */
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background: radial-gradient(circle farthest-corner at 35% 100%, #fec564, transparent 50%),
+ radial-gradient(circle farthest-corner at 10% 140%, #feda7e, transparent 50%),
+ radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%),
+ radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%),
+ radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%),
+ radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%),
+ radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent),
+ linear-gradient(#6559ca, #bc318f 30%, #e42e66 50%, #fa5332 70%, #ffdc80 100%);
+  color: #fff;
 }
