@@ -30,12 +30,10 @@ This repository will serve as a Portfolio.
 
 ---
 
-### !!!URGENT!!!
-
-- [ ] Fix Social Icons Responsiveness
+//### !!!URGENT!!!
 
 ---
-
+- [ x ] Fix Social Icons Responsiveness
 - [ ] Improve general aesthetics (colors, transitions, container placements, etc...)
 - [ ] Add personal picture
 - [ ] Add Repository photos/GIFs in portfolio page
