@@ -4,8 +4,9 @@
   font-family: "Montserrat", Arial, Helvetica, sans-serif;
 }
 
-.project, img {
-  object-fit: scale-down;
+.portfolio-img {
+  max-width: 100%;
+  height: auto;
 }
 
 .main-contact {
