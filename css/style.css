@@ -4,6 +4,10 @@
   font-family: "Montserrat", Arial, Helvetica, sans-serif;
 }
 
+.project, img {
+  object-fit: scale-down;
+}
+
 .main-contact {
   display: flex;
   flex-direction: column;
