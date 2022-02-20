@@ -34,6 +34,6 @@ This repository will serve as a Portfolio.
 - [ ] Add Repository photos/GIFs in portfolio page
 - [ ] Add Description about self in Home Page
 - [ ] Create sections in Portfolio for Physiotherapy and Tech Achievements
-- [ ] Create icons for Tech Skills in Portfolio
+- [ x ] Create icons for Tech Skills in Portfolio
 
 ##### _Hosted with GitHub Pages_
