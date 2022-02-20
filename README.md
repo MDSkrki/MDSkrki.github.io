@@ -21,7 +21,7 @@ This repository will serve as a Portfolio.
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" width="40" height="40"/>
     </a>
-    <a href="https://getbootstrap.com/">
+    <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="40" height="40"/>
     </a>
 </p>
@@ -33,7 +33,7 @@ This repository will serve as a Portfolio.
 - [ ] Add personal picture
 - [ ] Add Repository photos/GIFs in portfolio page
 - [ ] Add Description about self in Home Page
-- [ ] Create dropdown sections in Portfolio for Physiotherapy and Tech Achievements
+- [ ] Create sections in Portfolio for Physiotherapy and Tech Achievements
 - [ ] Create icons for Tech Skills in Portfolio
 
 ##### _Hosted with GitHub Pages_
