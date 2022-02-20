@@ -26,14 +26,17 @@ This repository will serve as a Portfolio.
     </a>
 </p>
 
+## Completed tasks ✅
+
+- [ x ] Create icons for Tech Skills in Portfolio
+- [ x ] Add Repository photos/GIFs in portfolio page
+- [ x ] Fix Social Icons Responsiveness
+
 ## Pending tasks 📋
 
-- [ x ] Fix Social Icons Responsiveness
 - [ ] Improve general aesthetics (colors, transitions, container placements, etc...)
 - [ ] Add personal picture
-- [ x ] Add Repository photos/GIFs in portfolio page
 - [ ] Add Description about self in Home Page
 - [ ] Create sections in Portfolio for Physiotherapy and Tech Achievements
-- [ x ] Create icons for Tech Skills in Portfolio
 
 ##### _Hosted with GitHub Pages_
