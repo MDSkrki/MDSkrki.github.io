@@ -54,3 +54,8 @@
  linear-gradient(#6559ca, #bc318f 30%, #e42e66 50%, #fa5332 70%, #ffdc80 100%);
   color: #fff;
 }
+
+.portfolio-heading {
+  text-align: center;
+  font-size: 1.3em;
+}
