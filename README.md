@@ -38,5 +38,6 @@ This repository will serve as a Portfolio.
 - [ ] Add personal picture
 - [ ] Add Description about self in Home Page
 - [ ] Create sections in Portfolio for Physiotherapy and Tech Achievements
+- [ ] Add Inspiring background images
 
 ##### _Hosted with GitHub Pages_
