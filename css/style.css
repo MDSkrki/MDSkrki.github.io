@@ -4,11 +4,6 @@
   font-family: "Montserrat", Arial, Helvetica, sans-serif;
 }
 
-.portfolio-img {
-  max-width: 100%;
-  height: auto;
-}
-
 .main-contact {
   display: flex;
   flex-direction: column;
@@ -58,4 +53,9 @@
 .portfolio-heading {
   text-align: center;
   font-size: 1.3em;
+}
+
+.portfolio-img {
+  max-width: 100%;
+  height: auto;
 }
