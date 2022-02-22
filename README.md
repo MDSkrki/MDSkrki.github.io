@@ -30,9 +30,9 @@ This repository will serve as a Portfolio.
 
 ## Completed tasks ✅
 
-- [ x ] Create icons for Tech Skills in Portfolio
-- [ x ] Add Repository photos/GIFs in portfolio page
-- [ x ] Fix Social Icons Responsiveness
+- [x] Create icons for Tech Skills in Portfolio
+- [x] Add Repository photos/GIFs in portfolio page
+- [x] Fix Social Icons Responsiveness
 
 ## Pending tasks 📋
 
