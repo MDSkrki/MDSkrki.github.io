@@ -9,6 +9,8 @@ This repository will serve as a Portfolio.
 
 [Mihai Daniel Somkereki's Portfolio](https://mdskrki.github.io/)
 
+![PageQR](img/qrcode_mdskrki.github.io.png)
+
 ## Tech Stack 👨‍💻
 
 <p align="left"> 
